@@ -1,4 +1,4 @@
-<>pKadai1homepage</p>
+<p>Kadai1homepage</p>
 <html lang="ja">
 <meta charset="utf-8">
 <h1>自己紹介</h1>

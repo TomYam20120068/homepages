@@ -5,7 +5,7 @@
 <p>
 <img src="Myphoto.jpg"><br>　
 名前：　山路　友樹<br>
-年齢：　２０</br>
+年齢：　２０<br>
 大学：　<a href="https://kaishi-pu.ac.jp/">開志専門職大学</a>
 </p>
 <h2>コメント</h2>
